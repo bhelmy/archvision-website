@@ -1,7 +1,8 @@
-ARCHVISION website starter
+ARCHVISION Website
 
-1. Extract the ZIP file.
-2. Open index.html in a browser to preview the bilingual website.
-3. The site includes the supplied project photos, WhatsApp contact, and email.
-4. This is a website package for preview; it is not published online yet.
-5. Before public launch, review all wording and replace the branding image with a clean standalone logo file if available.
+1. Keep index.html and the assets folder together.
+2. Open index.html in a browser to preview.
+3. Upload index.html and the assets folder to your GitHub repository.
+4. Enable GitHub Pages in Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+The portfolio currently has three image placeholders. Replace them with approved project photos before publishing.
